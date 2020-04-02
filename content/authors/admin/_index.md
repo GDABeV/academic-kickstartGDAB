@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Geselschaft für deutsch-arabische Begegnung e.V.
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: non-blo organi
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Hamburg 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
