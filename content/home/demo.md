@@ -13,7 +13,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -61,7 +61,7 @@ For inspiration, check out [the Markdown files](https://sourcethemes.com/academi
 - [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
 - Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
 - Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
+  - [Donate  coffee](https://paypal.me/cushen)
   - [Become a backer on Patreon](https://www.patreon.com/cushen)
   - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
   - [Wear the T-shirt](https://academic.threadless.com/)
